@@ -2,11 +2,11 @@
 by p.Shyr
 
 Folder Contents:
-Subfolder 'data' with two csv-files and one pdf-file
-Subfolder 'images' with five png-files
-Subfolder 'code' with a Jupyter-notebook file
-Presentation.pdf
-README.md
+.Subfolder 'data' with two csv-files and one pdf-file
+.Subfolder 'images' with five png-files
+.Subfolder 'code' with a Jupyter-notebook file
+.Presentation.pdf
+.README.md
 
 ## Preamble:
 This project primarily studies two datasets of SAT/ACT data.
